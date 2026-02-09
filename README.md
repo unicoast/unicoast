@@ -14,9 +14,4 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=unicoast&theme=transparent&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=6b7280&sideLabels=6b7280&dates=6b7280" />
   </p>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=unicoast&theme=github-compact&hide_border=true&bg_color=ffffff00&color=6b7280&line=3b82f6&point=6b7280" />
-  </p>
-
 </div>
